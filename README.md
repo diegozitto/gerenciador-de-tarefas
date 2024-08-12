@@ -4,7 +4,7 @@ O projeto foi feito de acordo com orientações passadas pelo curso: Criando_API
 https://www.udemy.com/course/criando-apis-com-java-17-usando-spring-boot-e-aws/?couponCode=KEEPLEARNING
 
 
-## Passo a passo dos preparativos:
+## Preparativos:
 - Baixar IntelliJ
 - Baixar Git
 - Baixar PostgreSQL
